@@ -1,8 +1,8 @@
 <div align="center">
   <!-- <h1>Hakusho</h1> -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/hakusho-banner-dark.png">
-    <img width="600px" alt="" src="./images/hakusho-banner-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/images/hakusho-banner-dark.png">
+    <img width="600px" alt="" src="./profile/images/hakusho-banner-light.png">
   </picture>
   <p>Extensible and Flexible Headless LMS</p>
 </div>
