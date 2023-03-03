@@ -1,8 +1,14 @@
 <div align="center">
-  <h1>Hakusho</h1>
+  <!-- <h1>Hakusho</h1> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/hakusho-banner-dark.png">
+    <img width="600px" alt="" src="./images/hakusho-banner-light.png">
+  </picture>
   <p>Extensible and Flexible Headless LMS</p>
 </div>
 
+<br>
+<hr>
 <br>
 
 ## 🌅 Philosophy
